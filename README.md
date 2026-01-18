@@ -1,18 +1,19 @@
-# CS ELECTIVE 3: Activities and Projects
+# Student-Portfolio-for-COSC-111
 
 ## Table of Contents
 
-1. [Activity 1](#activity-1)  
-2. [Activity 2](#activity-2)  
-3. [Activity 3](#activity-3)  
-4. [Activity 4](#activity-4)  
+1. [Laboratory Activity 1](#laboratory-activity-1)  
+2. [Laboratory Activity 2](#laboratory-activity-2)  
+3. [Laboratory Activity 3](#laboratory-activity-3)  
+4. [Laboratory Activity 4](#laboratory-activity-4)  
 5. [Laboratory Activity 5](#laboratory-activity-5)  
-6. [Lab Activity 6](#lab-activity-6)  
+6. [Laboratory Activity 6](#laboratory-activity-6)  
 7. [Laboratory Activity 7](#laboratory-activity-7)  
+8. [Midterm Laboratory](#midterm-laboratory)
 
 ---
 
-## Activity 1
+## Laboratory Activity 1
 
 **Folder:** `Activity-1`  
 **Description:** Sequentially turns on and off 5 LEDs connected to pins 8–12. Each LED turns on for 1 second and then off for 1 second.  
@@ -24,7 +25,7 @@
 
 ---
 
-## Activity 2
+## Laboratory Activity 2
 
 **Folder:** `Activity-2`  
 **Description:** Demonstrates smooth LED brightness control using PWM. Each LED gradually brightens and dims.  
@@ -36,7 +37,7 @@
 
 ---
 
-## Activity 3
+## Laboratory Activity 3
 
 **Folder:** `Activity-3`  
 **Description:** Monitors temperature (LM35) and light intensity (LDR). If temperature ≥50°C and brightness ≥220, triggers a LED + buzzer alarm.  
@@ -49,7 +50,7 @@
 
 ---
 
-## Activity 4
+## Laboratory Activity 4
 
 **Folder:** `Activity-4`  
 **Description:** Monitors brightness from a sensor. When a threshold is exceeded, an LED blinks until the user types "stop" in the Serial Monitor.  
@@ -76,7 +77,7 @@
 
 ---
 
-## Lab Activity 6
+## Laboratory Activity 6
 
 **Folder:** `Lab-Activity-6`  
 **Description:** Controls LEDs using buttons and Serial commands. Button presses or serial input toggles individual LEDs.  
@@ -103,8 +104,15 @@
    - `/led/red`, `/led/green`, `/led/blue` – toggle LEDs  
    - `/led/on`, `/led/off` – turn all LEDs on/off
 
+---
 
+## Midterm Laboratory
+
+**Folder:** `Midterm Laboratory`  
+**Description:** *(Add a short description of the Midterm Lab activity here)*  
+**Key Files:** *(List key files in this folder)*  
+**Instructions:** *(Explain how to run or test the midterm lab)*
+
+---
 
 - **Henry Luis Pula** – GitHub: [onepiecefranky123](https://github.com/onepiecefranky123)  
-
-
